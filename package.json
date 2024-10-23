@@ -1,0 +1,19 @@
+{
+    "name": "download_image",
+    "version": "1.0.1",
+    "main": "get-file.js",
+    "dependencies": {
+        "chai": "^5.1.2",
+        "expect": "^29.7.0",
+        "math": "^0.0.3",
+        "mocha": "^10.7.3",
+        "mtrx": "^0.1.6",
+        "selenium-webdriver": "^4.19.0",
+        "string": "^3.3.3",
+        "validator": "^13.11.0"
+    },
+    "scripts": {
+        "test": "node ./node_modules/mocha/bin/mocha"
+    }
+
+}
